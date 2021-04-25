@@ -1,0 +1,22 @@
+.tm-row {
+    position: fixed;
+    height: 90%;
+    display: block;
+}
+
+.logo-blog {
+    size: 300px;
+}
+
+.btPersonalizado {
+    color: black;
+ 
+    background-color: #BF8C69;
+
+    width: 100%;
+}
+
+.btPersonalizado:hover {
+    color: #F2F1F0;
+    background-color: #D85526;
+}

@@ -1,0 +1,43 @@
+.bg-personalizado {
+    background-color: #BF8C69;
+}
+
+.page-footer {
+    padding: 1%;
+    margin: 0;
+}
+ul.social-contacts {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.social-contacts li {
+    display: inline-flex;
+    margin: 0;
+    padding: 1%;
+    
+}
+
+.iconsSocial {
+    font-size: 25pt;
+    color: black;
+}
+
+.iconsSocial:hover {
+    color:#F3E6B5;
+}
+
+.footer-copyright  {
+    padding: 0;
+}
+
+.footer-copyright i {
+    padding: 1%;
+}
+
+.page-footer hr {
+    padding: 0;
+    margin: 0;
+}
+
